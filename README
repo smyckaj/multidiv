@@ -1,0 +1,8 @@
+	System requirements
+This package depends on R packages RPANDA, rje and diversitree. It was tested for RPANDA 1.5, rje 1.10.16, diversitree 0.9-11, R 3.5.2 and Ubuntu 16.04; and for RPANDA 1.9, rje 1.10.16, diversitree 0.9-16 and R 3.6.3 and Ubuntu 20.04. 
+
+	Installation
+The package can be installed from source via install.packages procedure in R. Installation on standard desktop machine is <10 seconds, but can be slower if RPANDA or its dependencies were not installed previously.
+
+	Demo and instructions for use
+See help vignettes of individual R functions.

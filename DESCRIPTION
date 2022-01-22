@@ -1,0 +1,14 @@
+Package: multidiv
+Type: Package
+Title: Multilineage diversification models
+Version: 0.1.0
+Author: Jan Smyčka
+Maintainer: Jan Smyčka <smyckaj@gmail.com>
+Description: A package for fitting RPANDA-style diversification models across multiple trees simultaneously. Currently the birth-death and environment-dependent diversification models are implemented.
+License: GPL-2
+Encoding: UTF-8
+LazyData: true
+Depends:
+    RPANDA, rje, diversitree
+Imports:
+    pspline
